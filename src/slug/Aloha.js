@@ -19,7 +19,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Aplicacion de cajero para tiendas, restaurantes y cafeterias, con laravel php artisan
+            Aplicacion de cajero para tiendas, restaurantes y cafeterias, con laravel php artisan.
           
           </h3>
           <p>
