@@ -19,7 +19,8 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko the best shop store.
+            Aplicacion de cajero para tiendas, restaurantes y cafeterias, con laravel php artisan
+          
           </h3>
           <p>
             Mudahkan segala urursan dengan laravel apps sebuah technology modern
